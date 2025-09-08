@@ -1,5 +1,5 @@
 ---
-title: Home
+title: TER Resources
 layout: home
 ---
 
